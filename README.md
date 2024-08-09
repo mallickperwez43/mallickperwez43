@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mallick Perwez
 - 👀 I’m interested in Software Development and DSA
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning WebDev + DevOps
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me Linked In : https://www.linkedin.com/in/perwez-mallick-6600831b1
 
